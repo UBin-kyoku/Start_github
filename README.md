@@ -16,11 +16,6 @@
 
 ## 예상 사용자
  메뉴를 고르는데 오랜 시간이 걸리는 사람
- 
-## 실행 방법
-1. 필요한 라이브러리 설치: `pip install -r requirements.txt`
-2. `.env.example` 파일을 복사해 `.env` 파일을 만들고 API 키 입력
-3. `run.bat` 더블클릭 (또는 `python -m streamlit run app.py`)
 
 ## 현재 진행 상태
  - 1주차 : readme.md 파일 작성
